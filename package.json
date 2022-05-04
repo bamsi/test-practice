@@ -1,0 +1,22 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "test practice for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamsi/test-practice.git"
+  },
+  "author": "bamsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bamsi/test-practice/issues"
+  },
+  "homepage": "https://github.com/bamsi/test-practice#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
